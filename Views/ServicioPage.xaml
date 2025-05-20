@@ -1,0 +1,10 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tp2SollazzoFederico.Views.ServicioPage"
+             Title="Servicio Ofrecido">
+    <VerticalStackLayout Padding="30" Spacing="10">
+        <Label Text="Servicio ofrecido por la app:" FontSize="18" FontAttributes="Bold"/>
+        <Label Text="Esta aplicación permite gestionar el acceso a turnos para una cancha de fútbol 5. El usuario podrá iniciar sesión, ver información del desarrollador y conocer los detalles del servicio ofrecido." 
+               LineBreakMode="WordWrap"/>
+    </VerticalStackLayout>
+</ContentPage>

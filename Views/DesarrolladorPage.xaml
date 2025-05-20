@@ -1,0 +1,10 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tp2SollazzoFederico.Views.DesarrolladorPage"
+             Title="Acerca del Desarrollador">
+    <VerticalStackLayout Padding="30" Spacing="10">
+        <Label Text="Nombre del Desarrollador: Federico Sollazzo" FontSize="18"/>
+        <Label Text="Correo: fedesollazzo23@gmail.com"/>
+        <Label Text="Teléfono: 2954-657764"/>
+    </VerticalStackLayout>
+</ContentPage>
